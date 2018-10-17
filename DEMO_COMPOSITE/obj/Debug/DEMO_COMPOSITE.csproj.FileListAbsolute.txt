@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\DEMO_COMPOSITE\DEMO_COMPOSITE\obj\Debug\DEMO_COMPOSITE.csprojResolveAssemblyReference.cache
+C:\Users\admin\source\repos\DEMO_COMPOSITE\DEMO_COMPOSITE\obj\Debug\DEMO_COMPOSITE.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\DEMO_COMPOSITE\DEMO_COMPOSITE\bin\Debug\DEMO_COMPOSITE.exe.config
+C:\Users\admin\source\repos\DEMO_COMPOSITE\DEMO_COMPOSITE\bin\Debug\DEMO_COMPOSITE.exe
+C:\Users\admin\source\repos\DEMO_COMPOSITE\DEMO_COMPOSITE\bin\Debug\DEMO_COMPOSITE.pdb
+C:\Users\admin\source\repos\DEMO_COMPOSITE\DEMO_COMPOSITE\obj\Debug\DEMO_COMPOSITE.exe
+C:\Users\admin\source\repos\DEMO_COMPOSITE\DEMO_COMPOSITE\obj\Debug\DEMO_COMPOSITE.pdb
